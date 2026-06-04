@@ -19,6 +19,11 @@ I build practical API systems with clear documentation, predictable architecture
     <p>DikteDuit API is the backend for a voice-first personal finance application</p>
     <a class="button-link" href="#/dikteduit-api/">View Project</a>
   </section>
+  <section class="portfolio-card">
+    <h3>CPNS Harian API</h3>
+    <p>APIs for Gamified Mobile app platform designed for CPNS exam preparation</p>
+    <a class="button-link" href="#/cpnsharian-api/">View Project</a>
+  </section>
 </div>
 
 ## Contact
