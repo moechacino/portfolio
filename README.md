@@ -28,7 +28,7 @@ I build practical API systems with clear documentation, predictable architecture
 
 ## Contact
 
-- Website: `https://lanaksa.my.id`
-- GitHub: `https://github.com/moechacino`
-- LinkedIn: `https://linkedin.com/in/lanaksa`
-- Email: `lanaksa28@gmail.com`
+- Website: [lanaksa.my.id](https://lanaksa.my.id)
+- GitHub: [github.com/moechacino](https://github.com/moechacino)
+- LinkedIn: [linkedin.com/in/lanaksa](https://linkedin.com/in/lanaksa)
+- Email: [lanaksa28@gmail.com](mailto:lanaksa28@gmail.com)
