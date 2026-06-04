@@ -2,7 +2,7 @@
 
 > Backend-focused portfolio documented as a clean, navigable GitHub Pages site.
 
-I build practical API systems with clear documentation, predictable architecture, and maintainable delivery workflows. This portfolio collects selected projects, implementation notes, API behavior, and technical decisions in one Docsify-powered site.
+I build practical API systems with clear documentation, predictable architecture, and maintainable delivery workflows. This portfolio collects selected projects, implementation notes, API behavior, and technical decisions in one Docsify-powered site
 
 <div class="badge-row">
   <span class="badge">Backend Engineering</span>
